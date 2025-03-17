@@ -13,7 +13,7 @@
 
 ## Redes Sociales
 
--[Facebook] ([https://www.facebook.com/profile.php?](https://www.facebook.com/profile.php?id=100060893626502)
+-[Facebook] ([https://www.facebook.com/profile.php?](https://www.facebook.com/profile.php?id=100060893626502))
 
 -[Github] (https://github.com/GabrielaDavil)
 
